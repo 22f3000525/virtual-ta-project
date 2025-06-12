@@ -1,0 +1,150 @@
+Title: Project1 - Virtual TA - Discussion Thread [TDS May 2025]
+Date: 2025-05-22T21:36:32.840Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/project1-virtual-ta-discussion-thread-tds-may-2025/176077
+
+---
+Title: TDS | References | Guidelines
+Date: 2022-10-10T09:56:42.517Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/tds-references-guidelines/67216
+
+---
+Title: About the Tools in Data Science category
+Date: 2021-12-22T16:02:18.717Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/about-the-tools-in-data-science-category/23335
+
+---
+Title: Submissions of Weekly Graded Assignment of TDS
+Date: 2025-06-10T06:34:51.065Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/submissions-of-weekly-graded-assignment-of-tds/178618
+
+---
+Title: Guide for tds project 1
+Date: 2025-06-10T09:01:10.396Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/guide-for-tds-project-1/178649
+
+---
+Title: How to find API key for discourse page
+Date: 2025-06-07T19:52:54.601Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/how-to-find-api-key-for-discourse-page/178166
+
+---
+Title: TDS project 1,I face ambiguati to make this project,how can I start?
+Date: 2024-10-28T17:57:47.152Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/tds-project-1-i-face-ambiguati-to-make-this-project-how-can-i-start/154294
+
+---
+Title: Marks of GA1
+Date: 2025-06-04T17:31:57.614Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/marks-of-ga1/177878
+
+---
+Title: Lost data in laptop while working on Git bash
+Date: 2025-05-18T22:25:18.264Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/lost-data-in-laptop-while-working-on-git-bash/175382
+
+---
+Title: Https://exam.sanand.workers.dev/project-tds-virtual-ta-promptfoo.yaml is not opened
+Date: 2025-06-03T08:16:33.606Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/https-exam-sanand-workers-dev-project-tds-virtual-ta-promptfoo-yaml-is-not-opened/177666
+
+---
+Title: GA3 - Large Language Models - Discussion Thread [TDS May 2025]
+Date: 2025-05-20T02:15:13.702Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-may-2025/175592
+
+---
+Title: Which subject to choose in jan term
+Date: 2025-01-01T16:04:48.718Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/which-subject-to-choose-in-jan-term/161071
+
+---
+Title: GA2 - Deployment Tools - Discussion Thread [TDS May 2025]
+Date: 2025-05-01T11:41:51.750Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/ga2-deployment-tools-discussion-thread-tds-may-2025/173525
+
+---
+Title: GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]
+Date: 2025-01-14T13:00:03.125Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-jan-2025/163247
+
+---
+Title: Error for Vector Databases (1 mark)
+Date: 2025-06-01T09:13:20.873Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/error-for-vector-databases-1-mark/176823
+
+---
+Title: Project 1 deadline extension
+Date: 2025-05-29T08:07:52.701Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/project-1-deadline-extension/176644
+
+---
+Title: Subject: Request for Clarification on Assignment Submission Status (GA1, GA2, GA3)
+Date: 2025-06-02T03:20:33.527Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/subject-request-for-clarification-on-assignment-submission-status-ga1-ga2-ga3/176851
+
+---
+Title: GA1 - Development Tools - Discussion Thread [TDS May 2025]
+Date: 2025-05-01T11:39:00.734Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/ga1-development-tools-discussion-thread-tds-may-2025/173524
+
+---
+Title: How to manage tds?
+Date: 2025-05-30T19:39:29.927Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/how-to-manage-tds/176754
+
+---
+Title: Vercel deployement error
+Date: 2025-05-31T11:55:22.507Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/vercel-deployement-error/176789
+
+---
+Title: Tds: assignment is not submitting
+Date: 2025-02-03T06:54:27.692Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189
+
+---
+Title: LLM CLI Tool Error– Model Authentication Issue with Models other OpenAI models
+Date: 2025-05-28T16:16:14.588Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/llm-cli-tool-error-model-authentication-issue-with-models-other-openai-models/176603
+
+---
+Title: TDS marks not updated on portal
+Date: 2025-05-24T13:09:37.709Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/tds-marks-not-updated-on-portal/176243
+
+---
+Title: Github actions - Error while running the demo shown in video
+Date: 2025-05-25T16:06:09.253Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/github-actions-error-while-running-the-demo-shown-in-video/176357
+
+---
+Title: Tds score issue
+Date: 2025-05-22T17:05:14.504Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/tds-score-issue/176060
+
+---
+Title: Clarification on Email ID for GitHub Account Submission for TDS Course Assignment
+Date: 2025-05-25T10:42:16.326Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/clarification-on-email-id-for-github-account-submission-for-tds-course-assignment/176323
+
+---
+Title: Issue Creating Google Cloud Project – "You must select a parent organization or folder" (Module 2, Q11 - TDS)
+Date: 2025-05-24T09:00:29.447Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/issue-creating-google-cloud-project-you-must-select-a-parent-organization-or-folder-module-2-q11-tds/176223
+
+---
+Title: Week 1 graded assignment deadline?
+Date: 2025-05-25T02:47:32.298Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/week-1-graded-assignment-deadline/176285
+
+---
+Title: Scores for week 1
+Date: 2025-05-24T11:25:34.301Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/scores-for-week-1/176230
+
+---
+Title: Ngrok week 2 q12
+Date: 2025-05-24T11:50:58.622Z
+Link: https://discourse.onlinedegree.iitm.ac.in/t/ngrok-week-2-q12/176234
+
+---
